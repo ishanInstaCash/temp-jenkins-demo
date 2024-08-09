@@ -1,3 +1,4 @@
 print("This is helper function")
 print("This is addition of code")
-if:
+if True:
+    print("error fixed")
